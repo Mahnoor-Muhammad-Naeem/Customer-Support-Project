@@ -174,3 +174,94 @@ A progress bar displays workload distribution with color coding:
 - The dashboard is interactive and designed for real-time collaboration.
 - Task assignment and priority help ensure quick resolution of customer issues.
 
+# 🔄 Automations - Customer Support (ClickUp)
+
+This section lists all the automations configured for the **Customer Support Project** in ClickUp.
+
+---
+
+## ✅ Active Automations
+
+### 1. When task created, then change status
+- **Trigger:** Task or subtask created  
+- **Action:** Change status  
+- 📸 **Screenshot:**  
+  ![Automation 1](screenshots/automation1.png)
+
+---
+
+### 2. When status changes, then change List
+- **Trigger:** Status changes  
+- **Action:** Move to list  
+- 📸 **Screenshot:**  
+  ![Automation 2](screenshots/automation2.png)
+
+---
+
+### 3. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees → Assigned to **A**  
+- 📸 **Screenshot:**  
+  ![Automation 3](screenshots/automation3.png)
+
+---
+
+## ❌ Inactive Automations
+
+### 4. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees  
+- 📸 **Screenshot:**  
+  ![Automation 4](screenshots/automation4.png)
+
+---
+
+### 5. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees  
+- 📸 **Screenshot:**  
+  ![Automation 5](screenshots/automation5.png)
+
+---
+
+### 6. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees  
+- 📸 **Screenshot:**  
+  ![Automation 6](screenshots/automation6.png)
+
+---
+
+### 7. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees  
+- 📸 **Screenshot:**  
+  ![Automation 7](screenshots/automation7.png)
+
+---
+
+### 8. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees  
+- 📸 **Screenshot:**  
+  ![Automation 8](screenshots/automation8.png)
+
+---
+
+### 9. When custom field changes, then change assignee
+- **Trigger:** Custom field changes  
+- **Action:** Change assignees  
+- 📸 **Screenshot:**  
+  ![Automation 9](screenshots/automation9.png)
+
+---
+
+### 10. When status changed to "waiting on customer", then set custom field
+- **Trigger:** Status changes → Waiting on customer  
+- **Action:** Set custom field  
+- 📸 **Screenshot:**  
+  ![Automation 10](screenshots/automation10.png)
+
+---
+
+
