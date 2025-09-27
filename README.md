@@ -1,12 +1,11 @@
 # 📞 Customer Support Project (ClickUp)
 
 A **ClickUp-based workspace** for managing customer support tickets — from triage to resolution.  
-Designed on the **ClickUp Free Plan** (no paid features required).  
-Includes setup details, workflows, automations, and screenshots for fast onboarding.
+Designed on the **ClickUp Free Plan** (no paid features required), this setup includes workflows, automations, custom fields, and screenshots for fast onboarding.  
 
 ---
 
-## 📁 Structure
+## 📁 Project Structure
 - **Space:** Customer Support  
 - **List:** Inbox (all tickets are created and tracked here)  
 - **Views:** List, Board, Table, Dashboard  
@@ -14,12 +13,14 @@ Includes setup details, workflows, automations, and screenshots for fast onboard
 ---
 
 ## 🧭 Workflow (Statuses)
-- **NEW** — ticket just created  
-- **ASSIGNED** — owner automatically set (via rules)  
-- **IN PROGRESS** — being worked on  
-- **WAITING ON CUSTOMER** — pending customer input  
-- **RESOLVED** — solution delivered  
-- **CLOSED** — final state  
+| Status | Description |
+|--------|-------------|
+| **NEW** | Ticket just created |
+| **ASSIGNED** | Owner automatically set (via rules) |
+| **IN PROGRESS** | Being worked on |
+| **WAITING ON CUSTOMER** | Pending customer input |
+| **RESOLVED** | Solution delivered |
+| **CLOSED** | Final state |
 
 ---
 
@@ -39,32 +40,16 @@ Includes setup details, workflows, automations, and screenshots for fast onboard
 
 ## 👀 Screenshots
 
-### Inbox – List & Columns
-![Inbox List](list.png)  
-*Shows all incoming tickets with key fields for triage.*
-
-### Board – Drag & Drop by Status
-![Board Status Flow](customer_support.png)  
-*Kanban-style view to move tickets across statuses.*
-
-### Dashboard – Overview
-![Dashboard Top](customer_support_2.png)  
-*High-level summary of open tickets, workload, and support status.*
-
-### Table View – Bulk Editing
-![Table View](table.png)  
-*Spreadsheet-style view for editing multiple tickets quickly.*
-
-### Login Issue Example
-![Login Issue](login_issue.png)  
-*Shows a common login issue ticket.*
-
-![Login Issue 2](login_issue2.png)  
-*Additional details of login issue ticket.*
-
-### Custom Fields Example
-![Custom Fields](custom_fields.png)  
-*Example of custom fields for ticket metadata.*
+| Feature | Screenshot | Description |
+|---------|-----------|-------------|
+| Inbox – List & Columns | ![Inbox List](list.png) | Shows all incoming tickets with key fields for triage |
+| Board – Drag & Drop by Status | ![Board Status Flow](customer_support.png) | Kanban-style view to move tickets across statuses |
+| Dashboard – Overview | ![Dashboard Top](customer_support_2.png) | High-level summary of open tickets, workload, and support status |
+| Table View – Bulk Editing | ![Table View](table.png) | Spreadsheet-style view for editing multiple tickets quickly |
+| Login Issue Example | ![Login Issue](login_issue.png) ![Login Issue 2](login_issue2.png) | Common login issue ticket with details |
+| Custom Fields Example | ![Custom Fields](custom_fields.png) | Example of custom fields for ticket metadata |
+| Dashboard Screenshot | ![Dashboard Screenshot](dashboard_screenshot.png) | Full dashboard overview screenshot |
+| Automations Screenshot | ![Automations Screenshot](automations_screenshot.png) | Automation rules and workflow screenshot |
 
 ---
 
@@ -78,7 +63,7 @@ Includes setup details, workflows, automations, and screenshots for fast onboard
 
 ## 📊 Dashboard Tips
 - Add **Tasks by Ticket Type** and **Tasks by Priority** widgets  
-- Adjust filters to include **NEW** status if tickets don’t show  
+- Adjust filters to include **NEW** status if tickets don’t appear  
 
 ---
 
@@ -97,4 +82,4 @@ Includes setup details, workflows, automations, and screenshots for fast onboard
 ---
 
 👩‍💻 **Owner:** Mahnoor Naeem  
-**Tool:** ClickUp (Free Plan)
+**Tool:** ClickUp (Free Plan)  
