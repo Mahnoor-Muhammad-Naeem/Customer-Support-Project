@@ -44,7 +44,7 @@ It includes setup details, workflows, automations, and screenshots for quick onb
 *Shows all incoming tickets with key fields for triage.*  
 
 ### Board – Drag & Drop by Status
-// ![Board Status Flow](assets/board_status_flow.png)  
+
 ![Board Status Flow](assets/board_status_flow.png)  
 *Kanban-style view to move tickets across statuses.*  
 
