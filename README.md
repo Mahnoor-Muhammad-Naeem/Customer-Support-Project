@@ -40,23 +40,24 @@ It includes setup details, workflows, automations, and screenshots for quick onb
 ## 👀 Screenshots
 
 ### Inbox – List & Columns
-![Inbox List](assets/inbox_list_columns.png)  
+![Inbox List](list.png)  
 *Shows all incoming tickets with key fields for triage.*  
 
 ### Board – Drag & Drop by Status
+// ![Board Status Flow](assets/board_status_flow.png)  
 ![Board Status Flow](assets/board_status_flow.png)  
 *Kanban-style view to move tickets across statuses.*  
 
 ### Dashboard – Overview
-![Dashboard Top](assets/dashboard_top.png)  
+![Dashboard Top](dashboard.png)  
 *High-level summary of open tickets, workload, and support status.*  
 
 ### Dashboard – Activity
-![Dashboard Bottom](assets/dashboard_bottom.png)  
+![Dashboard Bottom](dashboard1.png)  
 *Tracks ticket activity trends and workload distribution by assignee.*  
 
 ### Table View – Bulk Editing
-![Table View](assets/table_view_bulk.png)  
+![Table View](table.png)  
 *Spreadsheet-style view for editing multiple tickets quickly.*  
 
 ### Task Detail – Summary & Fields
