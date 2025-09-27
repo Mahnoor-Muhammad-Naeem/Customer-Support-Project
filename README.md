@@ -48,8 +48,11 @@ Designed on the **ClickUp Free Plan** (no paid features required), this setup in
 | Table View – Bulk Editing | ![Table View](table.png) | Spreadsheet-style view for editing multiple tickets quickly |
 | Login Issue Example | ![Login Issue](login_issue.png) ![Login Issue 2](login_issue2.png) | Common login issue ticket with details |
 | Custom Fields Example | ![Custom Fields](custom_fields.png) | Example of custom fields for ticket metadata |
-| Dashboard Screenshot | ![Dashboard Screenshot](dashboard_screenshot.png) | Full dashboard overview screenshot |
-| Automations Screenshot | ![Automations Screenshot](automations_screenshot.png) | Automation rules and workflow screenshot |
+| Dashboard Screenshot | ![Dashboard Screenshot](dashboard.png) | Full dashboard overview screenshot |
+| Dashboard Screenshot | ![Dashboard Screenshot](dashboard2.png) | Full dashboard overview screenshot |
+| Dashboard Screenshot | ![Dashboard Screenshot](dashboard3.png) | Full dashboard overview screenshot |
+| Automations Screenshot | ![Automations Screenshot](automation.png) | Automation rules and workflow screenshot |
+| Automations Screenshot | ![Automations Screenshot](automation1.png) | Automation rules and workflow screenshot |
 
 ---
 
